@@ -134,14 +134,7 @@ CareerSpace/
 └── README.md
 ```
 
----
 
-## 🖼️ Screenshots / Demo
-
-![Home Page](path/to/home.png)
-![Results Page](path/to/results.png)
-
----
 
 ## 📊 Future Improvements
 
